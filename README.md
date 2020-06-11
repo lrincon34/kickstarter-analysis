@@ -36,4 +36,10 @@ As you can see, 47% of successful kickstarters, had an average deadline of 29 da
 
 Well Louise, based on the analysis I have performed, I would recommend that you plan your campaign with a goal amount of <u>no more than $5,000</u>. Also try and start your kickstarter during <u>**May- June**</u> and anticipate having a <U>short deadline</u>, keeping it around a month's range. 
 
-https://github.com/yourusername/kickstarter-analysis,
+https://github.com/yourusername/kickstarter-analysis
+
+###Challenge
+
+Based on the Outcomes Based on Goals analysis, we can see that 66% of the campaigns under the "plays" category were successful while 34% of them failed and none were cancelled. Based on their goal, the ones that had a goal amount of more than $1,000 but less than $5,000, were found to have the greatest percent successful at 37%. 
+
+On the Outcomes Based on Launch Date, the chart indicates that the months of May and June are successful launching dates for kickstarter campaigns, while December has the lowest success.
