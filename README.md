@@ -1,5 +1,5 @@
-#An Analysis of Kickstarter Campaigns
-##Performing analysis on Kickstarte data to determine what specific factors make a campaign successful.
+# An Analysis of Kickstarter Campaigns
+## Performing analysis on Kickstarte data to determine what specific factors make a campaign successful.
 Based on the analysis, the following factors contribute most to the success of a campaign:
 - Goal amount
 - Launch date
@@ -32,13 +32,13 @@ The deadline specified for your campaign will also determnine the success of you
 |195|412|
 As you can see, 47% of successful kickstarters, had an average deadline of 29 days, therefore staying around this number should help. 
 
-###Conclusion
+### Conclusion
 
 Well Louise, based on the analysis I have performed, I would recommend that you plan your campaign with a goal amount of <u>no more than $5,000</u>. Also try and start your kickstarter during <u>**May- June**</u> and anticipate having a <U>short deadline</u>, keeping it around a month's range. 
 
 https://github.com/yourusername/kickstarter-analysis
 
-###Challenge
+### Challenge
 
 Based on the Outcomes Based on Goals analysis, we can see that 66% of the campaigns under the "plays" category were successful while 34% of them failed and none were cancelled. Based on their goal, the ones that had a goal amount of more than $1,000 but less than $5,000, were found to have the greatest percent successful at 37%. 
 
